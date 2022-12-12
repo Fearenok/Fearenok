@@ -1,6 +1,6 @@
 ![Header](https://github.com/Fearenok/Fearenok/blob/main/assets/IT3q0.gif)
 
-About me
+## I am a novice programmer
 
 Latest YouTube Videos
 
