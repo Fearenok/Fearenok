@@ -1,4 +1,4 @@
-![Header](https://github.com/Fearenok/Fearenok/blob/main/assets/Spb.jpg)
+Header
 
 About me
 
