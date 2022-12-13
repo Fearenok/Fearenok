@@ -1,4 +1,4 @@
-![Header](https://github.com/Fearenok/Fearenok/blob/main/assets/IT3q0.gif)
+![Header](https://github.com/Fearenok/Fearenok/blob/main/assets/mountains.gif)
 
 ## ```I am a novice programmer```
 
