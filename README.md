@@ -4,6 +4,11 @@
 
 Latest YouTube Videos
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-293133?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/Python-293133?style=for-the-badge&logo=python&logoColor=F5F100)
+![C#](https://img.shields.io/badge/C%23-293133?style=for-the-badge&logo=c-sharp&logoColor=427EE0)
+![Html](https://img.shields.io/badge/HTML-293133?style=for-the-badge&logo=html5&logoColor=FF2439)
+![Css](https://img.shields.io/badge/CSS-293133?&style=for-the-badge&logo=css3&logoColor=427EE0)
 
 Follow Me
