@@ -2,7 +2,7 @@
 
 ## I am a novice programmer
 
-Latest YouTube Videos
+### Latest YouTube Videos
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-293133?style=for-the-badge&logo=appveyor)
@@ -15,3 +15,5 @@ Latest YouTube Videos
 [![Telegram](https://img.shields.io/badge/-Telegram-293133?style=for-the-bandge&logo=telegram&logoColor=27A0D)](http://t.me/Montana333)
 [![Instagram](https://img.shields.io/badge/-Instagram-293133?style=for-the-bandge&logo=instagram&logoColor=B4068E)](http://www.instagram.com/antolllkaa)
 [![vkontakte](https://img.shields.io/badge/-Vkontakte-293133?style=for-the-bandge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id104145216)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearenok&theme=dark&show_icons=true)](https://github.com/Fearenok/github-readme-stats)
