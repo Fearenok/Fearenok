@@ -2,10 +2,10 @@
 
 ## ```I am a novice programmer```
 
-### *I have a higher education in engineering*
-### *Candidate for Master of Sports in military all-around*
-### *A sports judge in a military-applied sport*
-### *Swimming coach*
+#### *⚡Engineer*
+#### *⚡Candidate Master of Sports in military all-around*
+#### *⚡Judge in a military-applied sport*
+#### *⚡Swimming coach*
 
 ### ```Languages and Tools```
 ![Flutter](https://img.shields.io/badge/-Flutter-293133?style=for-the-badge&logo=appveyor)
