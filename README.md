@@ -11,4 +11,7 @@ Latest YouTube Videos
 ![Html](https://img.shields.io/badge/HTML-293133?style=for-the-badge&logo=html5&logoColor=FF2439)
 ![Css](https://img.shields.io/badge/CSS-293133?&style=for-the-badge&logo=css3&logoColor=427EE0)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-293133?style=for-the-bandge&logo=telegram&logoColor=27A0D)](http://t.me/Montana333)
+[![Instagram](https://img.shields.io/badge/-Instagram-293133?style=for-the-bandge&logo=instagram&logoColor=B4068E)](http://www.instagram.com/antolllkaa)
+[![vkontakte](https://img.shields.io/badge/-Vkontakte-293133?style=for-the-bandge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id104145216)
