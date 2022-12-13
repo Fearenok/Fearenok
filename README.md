@@ -20,4 +20,4 @@
 [![vkontakte](https://img.shields.io/badge/-Vkontakte-293133?style=for-the-bandge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id104145216)
 
 ### ```Statistics```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearenok&theme=dark&show_icons=true)](https://github.com/Fearenok/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearenok&show_icons=true&theme=tokyonight)](https://github.com/Fearenok/github-readme-stats)
