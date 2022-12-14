@@ -18,6 +18,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-293133?style=for-the-bandge&logo=telegram&logoColor=27A0D)](http://t.me/Montana333)
 [![Instagram](https://img.shields.io/badge/-Instagram-293133?style=for-the-bandge&logo=instagram&logoColor=B4068E)](http://www.instagram.com/antolllkaa)
 [![vkontakte](https://img.shields.io/badge/-Vkontakte-293133?style=for-the-bandge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id104145216)
-
-### ```Statistics```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearenok&show_icons=true&theme=tokyonight)](https://github.com/Fearenok/github-readme-stats)
